@@ -1,0 +1,4 @@
+.env
+.DS_Store
+creds.json
+**/node_modules
